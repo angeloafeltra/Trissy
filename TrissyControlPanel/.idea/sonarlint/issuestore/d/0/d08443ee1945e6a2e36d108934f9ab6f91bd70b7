@@ -1,0 +1,19 @@
+
+a	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+e
+java:S1192V"ODefine a constant instead of duplicating this literal "Hai Pareggiato" 3 times.(ãı÷Ê
+>
+java:S1604>"(Make this anonymous inner class a lambda(Èú†
+Z
+java:S1659"?Declare "b2" and all following declarations on a separate line.(ÂŠ¸…úÿÿÿÿ
+h
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Êş™×
+Y
+java:S1155G">Use isEmpty() to check whether the collection is empty or not.(ıí‚Ôüÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(²´«œşÿÿÿÿ
+T
+java:S1155U">Use isEmpty() to check whether the collection is empty or not.(Ü–Œ×
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ãı÷Ê
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ÚÏ«ûÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(¬Á«ˆşÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(Æ³ÂÃ

@@ -1,0 +1,13 @@
+
+o
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+2
+java:S2153"Remove the boxing of "baud".(óõöÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¶Ýæúÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Õ‡ö‚ÿÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Â’’Ðüÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÉÀ¶¨ûÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(Ô†£ûÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(Ô†£ûÿÿÿÿ
+V	java:S125c"<This block of commented-out lines of code should be removed.(Ô†£ûÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(®¼Óê

@@ -1,0 +1,14 @@
+
+`	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+`	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+C
+java:S1604U"(Make this anonymous inner class a lambda(ÕÊÆßûÿÿÿÿ
+>
+java:S1604f"(Make this anonymous inner class a lambda(þŸÖÕ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(­¥úÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(€«Üžþÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(µØÙÄùÿÿÿÿ
+`
+java:S2147o"ECombine this catch with the one at line 109, which has the same body.(è®ã¶øÿÿÿÿ
+y
+java:S2142o"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ

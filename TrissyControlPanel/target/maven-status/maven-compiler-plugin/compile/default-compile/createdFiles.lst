@@ -1,0 +1,13 @@
+org/example/view/ControlPanelView.class
+org/example/Main.class
+org/example/comunication/SerialComunication.class
+org/example/view/component/ServoControllerPanel$1.class
+org/example/tris/TicTacToe.class
+org/example/tris/MinMaxAlgorithm.class
+org/example/view/component/ConnectionPanel$1.class
+org/example/view/component/ServoControllerPanel.class
+org/example/view/component/MagnetPanel.class
+org/example/view/component/ConnectionPanel.class
+org/example/view/ControlPanelView$1.class
+org/example/view/component/MagnetPanel$1.class
+org/example/view/ManualModeView.class

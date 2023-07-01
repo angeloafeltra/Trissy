@@ -1,0 +1,24 @@
+
+`	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ô·áøÿÿÿÿ
+D
+java:S3740"/Provide the parametrized type for this generic.(Ïå§,
+E
+java:S3740"/Provide the parametrized type for this generic.(³Å«
+E
+java:S3740%"/Provide the parametrized type for this generic.(óÓ£•
+C
+java:S1604U"(Make this anonymous inner class a lambda(å¼ëóşÿÿÿÿ
+`
+java:S4275P"ERefactor this getter so that it actually refers to the field "panel".(‰Œóˆÿÿÿÿÿ
+S
+java:S1854i"8Remove this useless assignment to local variable "baud".(Ê–ŸŠşÿÿÿÿ
+X
+java:S1854h"BRemove this useless assignment to local variable "portDescritpor".(”³–
+y
+java:S2142_"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ
+I
+java:S1481h"3Remove this unused "portDescritpor" local variable.(”³–
+D
+java:S1481i")Remove this unused "baud" local variable.(Ê–ŸŠşÿÿÿÿ

@@ -1,0 +1,7 @@
+
+
+java:S1319	"kThe type of "mosseLibere" should be an interface such as "List" rather than the implementation "ArrayList".(‚æ³
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïõ‰Ş
+9
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ

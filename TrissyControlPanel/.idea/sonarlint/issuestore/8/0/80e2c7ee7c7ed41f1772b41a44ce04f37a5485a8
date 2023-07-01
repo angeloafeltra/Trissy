@@ -1,0 +1,8 @@
+
+g	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ˆ¼··1
+J
+java:S1604U"(Make this anonymous inner class a lambda(å¼ëóşÿÿÿÿ8¼··1
+g
+java:S4275P"ERefactor this getter so that it actually refers to the field "panel".(‰Œóˆÿÿÿÿÿ8™ƒà·1
+€
+java:S2142e"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8”½··1

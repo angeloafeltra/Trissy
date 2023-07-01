@@ -1,0 +1,19 @@
+
+g	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8çà‡‘1
+g	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8çà‡‘1
+g	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8 Åá‡‘1
+g	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8 Åá‡‘1
+h	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8†İï‡‘1
+h	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8¹­ò‡‘1
+E
+java:S1604_"(Make this anonymous inner class a lambda(“ĞÏ8¨çà‡‘1
+q
+java:S1450"TRemove the "label" field and declare it as a local variable in the relevant methods.(ßë·²8÷çà‡‘1
+u
+java:S1450"XRemove the "trisPanel" field and declare it as a local variable in the relevant methods.(Âï§è8÷çà‡‘1
+f
+java:S32522"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8™èà‡‘1
+t
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ËüÉãûÿÿÿÿ8ùÅá‡‘1
+T
+java:S6126i"2Replace this String concatenation with Text block.(Øğ·äúÿÿÿÿ8§èà‡‘1

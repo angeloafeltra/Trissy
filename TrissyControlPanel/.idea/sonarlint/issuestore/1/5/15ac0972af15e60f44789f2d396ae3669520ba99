@@ -1,0 +1,12 @@
+
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8…ªÇà1
+E
+java:S16041"(Make this anonymous inner class a lambda(÷™‹Î8‡ªÇà1
+`
+java:S3252"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(Ó»è­8¢ªÇà1
+e
+java:S3252"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(û¡³øÿÿÿÿ8¢ªÇà1
+g
+java:S3252"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(‚œ¦›úÿÿÿÿ8£ªÇà1
+€
+java:S2142:"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8­ªÇà1
